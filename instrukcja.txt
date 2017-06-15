@@ -1,0 +1,8 @@
+1. Tworzysz katalog na projekt.
+2. Zapisujesz w nim plik z danymi i nazywasz go (wa¿ne) data.csv lub kopiujesz plik z folderu z gotowcem.
+3. Otwierasz w matlabie folder na projekt (panel po lewej stronie).
+4. Klikasz prawym przyciskiem myszy na data.csv->Import data...
+5. Po œrodku na górze wybierasz "table" i klikasz Import Selection (to zielone) po prawej.
+6. Zadania uruchamiasz wpisuj¹c "zadanie2", "zadanie3" itd. w Command Window (na dole). Zadania s¹ numerowane tak jak punkty na kartce.
+
+Jeœli coœ nie dzia³a spróbuj polecenia clear i zaimportuj dane od nowa.
